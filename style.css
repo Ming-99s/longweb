@@ -81,6 +81,7 @@ body {
     border:none;
     background-color: hsl(176, 68%, 64%);
     transition: 0.5s;
+    color: rgb(255, 255, 255);
 }
 #button1:hover{
     background-color: white;
@@ -303,9 +304,10 @@ body {
     height: 4rem;
     width: 15rem;
     border-radius: 30px;
-    color: hsl(217, 28%, 15%);
+    color: hsl(0, 0%, 100%);
     font-size: 1.1rem;
     font-weight: 700;
+    text-decoration: none;
     
 }
 #buttonof5:hover{
