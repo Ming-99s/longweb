@@ -305,7 +305,7 @@ body {
     border-radius: 30px;
     color: hsl(217, 28%, 15%);
     font-size: 1.1rem;
-    font-weight: 800;
+    font-weight: 700;
     
 }
 #buttonof5:hover{
@@ -357,7 +357,7 @@ body {
 #contact{
     height: 8rem;
     margin-top: 6rem;
-    margin-left: 18rem;
+    margin-left: 10rem;
     display: inline-block;
     width: 15rem;
 }
@@ -376,11 +376,11 @@ body {
     height: 10rem;
     display: inline-block;
     margin-top: 6rem;
-    margin-left: 20rem;
+    margin-left: 10rem;
 
 }
 #navtext2{
-    margin-left: 40rem;
+    margin-left: 25rem;
 
 }
 #navtext2 a{
